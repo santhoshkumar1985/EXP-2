@@ -50,12 +50,24 @@ Procedure for Load test:
 Tabulation for Open Circuit Test
 
 Tabulation for Load Test:
+<img width="1920" height="1080" alt="load characteristics dc stunt on" src="https://github.com/user-attachments/assets/bbc69ca0-ab2e-4dfc-a5d8-2120eddc6b88" />
 
 Model graph:
-Calculation: 
+<img width="1920" height="1080" alt="loadd graph" src="https://github.com/user-attachments/assets/3dcd07dc-78f3-45de-8c02-4671ff9aa155" />
 
 
-Open circuit characteristics
+Calculation: -
+
+
+Open circuit characteristics:
+<img width="1920" height="1080" alt="load characteristics dc stunt off" src="https://github.com/user-attachments/assets/3a7412ee-e8e4-4c39-bc3e-6474b78f9749" />
+<img width="1920" height="1080" alt="load characteristics dc stunt on" src="https://github.com/user-attachments/assets/921d3211-7719-4606-8354-93dcbde6efd5" />
+
+
+
+
+
+
 
   
 Load Characteristics:
