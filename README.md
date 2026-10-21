@@ -49,19 +49,29 @@ Procedure for Load test:
 
 Tabulation for Open Circuit Test
 
+<img width="742" height="421" alt="image" src="https://github.com/user-attachments/assets/afb4c471-766a-468f-82b7-f4e96cfe7058" />
+
+<img width="433" height="202" alt="image" src="https://github.com/user-attachments/assets/7e267ccc-23f2-4ae7-bb48-055de0a1b9b0" />
+
+<img width="216" height="180" alt="image" src="https://github.com/user-attachments/assets/7db68be4-c339-470a-9581-d009b7076ae4" />
+
+
 Tabulation for Load Test:
-<img width="1920" height="1080" alt="load characteristics dc stunt on" src="https://github.com/user-attachments/assets/bbc69ca0-ab2e-4dfc-a5d8-2120eddc6b88" />
+
+<img width="962" height="445" alt="image" src="https://github.com/user-attachments/assets/3a049170-47eb-4684-94e2-ab55d64d7b51" />
+
 
 Model graph:
-<img width="1920" height="1080" alt="loadd graph" src="https://github.com/user-attachments/assets/3dcd07dc-78f3-45de-8c02-4671ff9aa155" />
+
+<img width="952" height="290" alt="image" src="https://github.com/user-attachments/assets/5cb897d1-db0b-4e16-ab78-b67f74c4583e" />
 
 
 Calculation: -
 
+<img width="186" height="157" alt="image" src="https://github.com/user-attachments/assets/7ea9f123-6e1a-4aa7-94fd-00721d521c52" />
 
 Open circuit characteristics:
-<img width="1920" height="1080" alt="load characteristics dc stunt off" src="https://github.com/user-attachments/assets/3a7412ee-e8e4-4c39-bc3e-6474b78f9749" />
-<img width="1920" height="1080" alt="load characteristics dc stunt on" src="https://github.com/user-attachments/assets/921d3211-7719-4606-8354-93dcbde6efd5" />
+
 
 
 
